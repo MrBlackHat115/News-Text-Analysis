@@ -1,5 +1,7 @@
 # News-Text-Analysis
 
+<img width="1041" height="500" alt="Screenshot 2026-01-05 214738" src="https://github.com/user-attachments/assets/5e350a62-5dbd-45d4-bd67-cc5c0d2305c6" />
+
 This project implements a complete Natural Language Processing (NLP) pipeline using BBC news article titles.  
 It focuses on text preprocessing, token analysis, Part-of-Speech (POS) tagging, and Named Entity Recognition (NER) to extract meaningful insights from news headlines.
 
